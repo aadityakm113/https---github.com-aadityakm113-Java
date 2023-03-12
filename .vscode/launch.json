@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "testComplex",
+            "request": "launch",
+            "mainClass": "testComplex",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Cmd",
+            "request": "launch",
+            "mainClass": "Cmd",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Varargs",
+            "request": "launch",
+            "mainClass": "Varargs",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Dispatch",
+            "request": "launch",
+            "mainClass": "Dispatch",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Final",
+            "request": "launch",
+            "mainClass": "Final",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Static",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Books",
+            "request": "launch",
+            "mainClass": "Books",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "acc",
+            "request": "launch",
+            "mainClass": "acc",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "account",
+            "request": "launch",
+            "mainClass": "account",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "compare",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "charop",
+            "request": "launch",
+            "mainClass": "charop",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "arithop",
+            "request": "launch",
+            "mainClass": "arithop",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "decimal",
+            "request": "launch",
+            "mainClass": "decimal",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "greatestof3",
+            "request": "launch",
+            "mainClass": "greatestof3",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "multitable",
+            "request": "launch",
+            "mainClass": "multitable",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "naturalnum",
+            "request": "launch",
+            "mainClass": "naturalnum",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "posinega",
+            "request": "launch",
+            "mainClass": "posinega",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "quad",
+            "request": "launch",
+            "mainClass": "quad",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "sumavg",
+            "request": "launch",
+            "mainClass": "sumavg",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "weekday",
+            "request": "launch",
+            "mainClass": "weekday",
+            "projectName": "Java_a3d6600e"
+        }
+    ]
+}
