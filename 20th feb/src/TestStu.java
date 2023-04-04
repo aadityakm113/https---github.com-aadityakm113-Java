@@ -17,6 +17,7 @@ class Student
 		Scanner sc = new Scanner(System.in);
 		sname = sc.nextLine();
 		gender = sc.nextLine();
+		sc.close();
 	}
 
 	void display()
@@ -41,5 +42,5 @@ public class TestStu
 		s.display();
 	}
 		
-	sc.close();
+	
 }

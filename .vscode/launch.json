@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestStu1",
+            "request": "launch",
+            "mainClass": "TestStu1",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "reverse",
             "request": "launch",
             "mainClass": "reverse",

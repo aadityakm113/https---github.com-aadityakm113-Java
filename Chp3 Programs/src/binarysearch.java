@@ -1,10 +1,10 @@
 import java.util.*;
 
 //Program to find element from an sorted array using binary search (java.til.package)
-class bs
+/*class bs
 {
 
-}
+}*/
 public class binarysearch {
     public static void main(String[] args)
     {

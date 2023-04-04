@@ -57,6 +57,7 @@ public class TestStu1
         System.out.println("Enter Name : ");
         String y = sc.nextLine();
         arr[i] = new Student(x,y);
+        sc.close();
        
         }
  
