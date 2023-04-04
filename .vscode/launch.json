@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "deldupe",
+            "request": "launch",
+            "mainClass": "deldupe",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "copy",
+            "request": "launch",
+            "mainClass": "copy",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "irregulararray",
+            "request": "launch",
+            "mainClass": "irregulararray",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "maxmin",
+            "request": "launch",
+            "mainClass": "maxmin",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "testComplex",
             "request": "launch",
             "mainClass": "testComplex",
