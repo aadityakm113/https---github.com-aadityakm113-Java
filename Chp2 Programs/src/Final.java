@@ -15,7 +15,7 @@ public class Final {
     {
         Final f = new Final(11);
         System.out.println(f.getb());
-        f.finalize();
+        //f.finalize();
         System.out.println(f.getb());
     }
     

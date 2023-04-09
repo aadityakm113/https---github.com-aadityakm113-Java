@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dist",
+            "request": "launch",
+            "mainClass": "Dist",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "parentchild",
+            "request": "launch",
+            "mainClass": "parentchild",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "shapes",
+            "request": "launch",
+            "mainClass": "shapes",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "salary",
+            "request": "launch",
+            "mainClass": "salary",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "volume",
+            "request": "launch",
+            "mainClass": "volume",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "distance",
+            "request": "launch",
+            "mainClass": "distance",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "TestStu1",
             "request": "launch",
             "mainClass": "TestStu1",
