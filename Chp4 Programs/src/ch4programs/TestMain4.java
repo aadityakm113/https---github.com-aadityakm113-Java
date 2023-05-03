@@ -1,3 +1,4 @@
+package ch4programs;
 class FibonacciSeries {
     private int limit;
     private int[] series;

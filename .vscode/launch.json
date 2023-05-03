@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "x",
+            "request": "launch",
+            "mainClass": "ch4programs.x",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionDemo",
+            "request": "launch",
+            "mainClass": "Exceptions.ExceptionDemo",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "BasicException",
+            "request": "launch",
+            "mainClass": "Exceptions.BasicException",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "NonSubClass",
+            "request": "launch",
+            "mainClass": "package2.NonSubClass",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "SubClass",
+            "request": "launch",
+            "mainClass": "package2.SubClass",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "SubClass",
+            "request": "launch",
+            "mainClass": "package1.SubClass",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ParentClass",
+            "request": "launch",
+            "mainClass": "package1.ParentClass",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "NonSubClass",
+            "request": "launch",
+            "mainClass": "package1.NonSubClass",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "packages.New",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "interinher",
             "request": "launch",
             "mainClass": "interinher",

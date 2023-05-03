@@ -1,3 +1,4 @@
+package ch4programs;
 interface work
 {
     void engineer();

@@ -1,3 +1,4 @@
+package ch4programs;
 import java.util.Scanner;
 class fibonacci{
     int num1, num2, terms;
