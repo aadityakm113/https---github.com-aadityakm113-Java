@@ -52,12 +52,12 @@ public class salary
 {
     public static void main(String[] args)
     {
-        Employee a = new Employee("Aaditya", 20,"9502663840","Kokapet", 50000, "Guitarist");
-        Manager b = new Manager("Siddarth", 19,"9542756044" , "Kukatpally", 50000, "TFA");
+        Employee emp = new Employee("Loalith", 19,"8639538285","Mallampet", 45000, "Gamer");
+        Manager man = new Manager("Siddarth", 19,"9542756044" , "Kukatpally", 50000, "Engineering");
 
-        System.out.println("Employee details: "+a.toString());
-        System.out.println("Manager details: "+b.toString());
-        a.printSalary();
-        b.printSalary();
+        System.out.println("Employee details: "+emp.toString());
+        System.out.println("Manager details: "+man.toString());
+        emp.printSalary();
+        man.printSalary();
     }
 }

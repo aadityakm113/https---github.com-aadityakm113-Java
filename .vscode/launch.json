@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "interinher",
+            "request": "launch",
+            "mainClass": "interinher",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Fibconst",
+            "request": "launch",
+            "mainClass": "Fibconst",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries$TestMain4",
+            "request": "launch",
+            "mainClass": "FibonacciSeries$TestMain4",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "quadeq",
+            "request": "launch",
+            "mainClass": "quadeq",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "vehicles",
+            "request": "launch",
+            "mainClass": "vehicles",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "phone",
+            "request": "launch",
+            "mainClass": "phone",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "Dist",
             "request": "launch",
             "mainClass": "Dist",
