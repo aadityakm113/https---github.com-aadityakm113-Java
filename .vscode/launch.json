@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Student1",
+            "request": "launch",
+            "mainClass": "Student1",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "Account",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "nestedException",
+            "request": "launch",
+            "mainClass": "nestedException",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ExpectionHandling",
+            "request": "launch",
+            "mainClass": "ExpectionHandling",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "pack2.Triangle",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "CalcRoots",
+            "request": "launch",
+            "mainClass": "Quad2.CalcRoots",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "TestB",
+            "request": "launch",
+            "mainClass": "testPackage.TestB",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ClassC",
+            "request": "launch",
+            "mainClass": "pkg2.ClassC",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "SubA",
+            "request": "launch",
+            "mainClass": "pkg1.SubA",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ClassB",
+            "request": "launch",
+            "mainClass": "pkg1.ClassB",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
+            "name": "ClassA",
+            "request": "launch",
+            "mainClass": "pkg1.ClassA",
+            "projectName": "Java_a3d6600e"
+        },
+        {
+            "type": "java",
             "name": "x",
             "request": "launch",
             "mainClass": "ch4programs.x",
